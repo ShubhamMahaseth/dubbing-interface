@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dubbing-interface/static/css/main.733ec697.css",
+    "main.js": "/dubbing-interface/static/js/main.68e70856.js",
+    "static/js/453.c399fb91.chunk.js": "/dubbing-interface/static/js/453.c399fb91.chunk.js",
+    "index.html": "/dubbing-interface/index.html",
+    "main.733ec697.css.map": "/dubbing-interface/static/css/main.733ec697.css.map",
+    "main.68e70856.js.map": "/dubbing-interface/static/js/main.68e70856.js.map",
+    "453.c399fb91.chunk.js.map": "/dubbing-interface/static/js/453.c399fb91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733ec697.css",
+    "static/js/main.68e70856.js"
+  ]
+}
